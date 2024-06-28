@@ -1,3 +1,41 @@
+# Fluynt
+
+Welcome to **Fluynt**, a cutting-edge language learning app designed to compete with Duolingo. Fluynt aims to provide a seamless and engaging learning experience across iOS, Android, and Desktop platforms using Kotlin Multiplatform.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Preferred Editors](#preferred-editors)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+
+Fluynt is a Kotlin Multiplatform project designed to offer a comprehensive language learning experience. By leveraging shared business logic and UI components, we aim to provide a consistent user experience across multiple platforms, reducing development time and maintenance overhead.
+
+## Features
+
+- **Interactive Lessons**: Engaging lessons with audio, visual, and interactive elements.
+- **Progress Tracking**: Monitor your learning progress and achievements.
+- **Gamification**: Earn points, badges, and compete with friends.
+- **Multiplatform Support**: Available on iOS, Android, and Desktop.
+- **Offline Mode**: Continue learning without an internet connection.
+
+## Getting Started
+
+### Prerequisites
+
+To build and run Fluynt, you'll need:
+
+- **JDK 11** or higher
+- **Git** (for version control)
+- 
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
